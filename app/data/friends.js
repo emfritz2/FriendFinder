@@ -15,10 +15,27 @@ var friendData = [
         4,
         1
       ]
+  },
+  {
+    name: "Ralphie",
+    photo:"http://costumedesignersguild.com/wp-content/uploads/2012/08/ChristmasStory_new-247.jpg",
+    scores:[
+        1,
+        5,
+        4,
+        1,
+        5,
+        4,
+        2,
+        5,
+        3,
+        1
+      ]
+
   }
 ];
 
 
 module.exports = friendData;
 
-// console.log(friendData);
+console.log(friendData);
